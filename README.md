@@ -19,11 +19,11 @@
 
 #### Kebutuhan **PHPList** :
 Untuk menginstall **PHPList** kita membutuhkan:
-·         GNU/Linux OS
-·         Apache web server
-·         PHP version 4.3 or atau versi yang lebih tinggi
-·         PHP Imap Module
-·         MySQL server version 4.0 atau versi yang lebih tinggi
+-         GNU/Linux OS
+-         Apache web server
+-         PHP version 4.3 or atau versi yang lebih tinggi
+-         PHP Imap Module
+-         MySQL server version 4.0 atau versi yang lebih tinggi
 
 #### Proses Instalasi :
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi PuTTY.
