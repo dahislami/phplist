@@ -16,11 +16,11 @@
 
 #### Kebutuhan **PHPList** :
 Untuk menginstall **PHPList** kita membutuhkan:
--         GNU/Linux OS
--         Apache web server
--         PHP version 4.3 or atau versi yang lebih tinggi
--         PHP Imap Module
--         MySQL server version 4.0 atau versi yang lebih tinggi
+- GNU/Linux OS
+- Apache web server
+- PHP version 4.3 or atau versi yang lebih tinggi
+- PHP Imap Module
+- MySQL server version 4.0 atau versi yang lebih tinggi
 
 # Instalasi :
 [`^ kembali ke atas ^`](#)
@@ -92,29 +92,29 @@ Untuk menginstall **PHPList** kita membutuhkan:
 [`^ kembali ke atas ^`](#)
 1. Melakukan setup pada bagian System Function halaman admin **PHPList**.
 2. Melakukan setup pada bagian **Configure Attributes**
- ```
- Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
- Mengisikan nama, misalnya pekerjaan
- Menentukan tipe untuk atribut tersebut pada kotak type, jika ada nilai default untuk atribut tersebut isikan di kotak Default Value
- Tentukan juga apakah variabel tersebut harus diisi oleh pendaftar atau tidak, pada kotak **Is this attribute required?**
- Klik merge
- ```
-2. Membuat **List** . List adalah objek yang menyimpan daftar user berta email yang terdaftar
- ```
- Isi nama pada kotak List name
- Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
- Mengisikan owner yang berhak mengatur list tersebut
- Mengisikan deskripsi tentang list pada kotak List Description
- Simpan perubahan Save
- ```
- 3. Membuat **Subcriber Pages** 
- ```
- Pengisian Thank You page, text for button dan opsi Email Configuration
- Pengisian judul dan isi email subscribe dan email konfirmasi
- Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
- Mengisi pesan yang akan dikirim setelah terkonfirmasi di kotak Message pada bagian bawah tulisan Message the receive when they confirm their subscription
- Simpan perubahan Save Change
- ```
+ 
+ - Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
+ - Mengisikan nama, misalnya pekerjaan
+ - Menentukan tipe untuk atribut tersebut pada kotak type, jika ada nilai default untuk atribut tersebut isikan di kotak Default Value
+ - Tentukan juga apakah variabel tersebut harus diisi oleh pendaftar atau tidak, pada kotak **Is this attribute required?**
+ - Klik merge
+ 
+3. Membuat **List** . List adalah objek yang menyimpan daftar user berta email yang terdaftar
+ 
+ - Isi nama pada kotak List name
+ - Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
+ - Mengisikan owner yang berhak mengatur list tersebut
+ - Mengisikan deskripsi tentang list pada kotak List Description
+ - Simpan perubahan Save
+ 
+ 4. Membuat **Subcriber Pages** 
+
+ - Pengisian Thank You page, text for button dan opsi Email Configuration
+ - Pengisian judul dan isi email subscribe dan email konfirmasi
+ - Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
+ - Mengisi pesan yang akan dikirim setelah terkonfirmasi di kotak Message pada bagian bawah tulisan Message the receive when they confirm their subscription
+ - Simpan perubahan Save Change
+ 
 
 # Maintanance
 [`^ kembali ke atas ^`](#)
