@@ -93,27 +93,27 @@ Untuk menginstall **PHPList** kita membutuhkan:
 1. Melakukan setup pada bagian System Function halaman admin **PHPList**.
 2. Melakukan setup pada bagian **Configure Attributes**
  
- - Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
- - Mengisikan nama, misalnya pekerjaan
- - Menentukan tipe untuk atribut tersebut pada kotak type, jika ada nilai default untuk atribut tersebut isikan di kotak Default Value
- - Tentukan juga apakah variabel tersebut harus diisi oleh pendaftar atau tidak, pada kotak **Is this attribute required?**
- - Klik merge
+    - Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
+    - Mengisikan nama, misalnya pekerjaan
+    - Menentukan tipe untuk atribut tersebut pada kotak type, jika ada nilai default untuk atribut tersebut isikan di kotak Default Value
+    - Tentukan juga apakah variabel tersebut harus diisi oleh pendaftar atau tidak, pada kotak **Is this attribute required?**
+    - Klik merge
  
 3. Membuat **List** . List adalah objek yang menyimpan daftar user berta email yang terdaftar
  
- - Isi nama pada kotak List name
- - Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
- - Mengisikan owner yang berhak mengatur list tersebut
- - Mengisikan deskripsi tentang list pada kotak List Description
- - Simpan perubahan Save
+    - Isi nama pada kotak List name
+    - Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
+    - Mengisikan owner yang berhak mengatur list tersebut
+    - Mengisikan deskripsi tentang list pada kotak List Description
+    - Simpan perubahan Save
  
  4. Membuat **Subcriber Pages** 
 
- - Pengisian Thank You page, text for button dan opsi Email Configuration
- - Pengisian judul dan isi email subscribe dan email konfirmasi
- - Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
- - Mengisi pesan yang akan dikirim setelah terkonfirmasi di kotak Message pada bagian bawah tulisan Message the receive when they confirm their subscription
- - Simpan perubahan Save Change
+    - Pengisian Thank You page, text for button dan opsi Email Configuration
+    - Pengisian judul dan isi email subscribe dan email konfirmasi
+    - Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
+    - Mengisi pesan yang akan dikirim setelah terkonfirmasi di kotak Message pada bagian bawah tulisan Message the receive when they confirm their subscription
+    - Simpan perubahan Save Change
  
 
 # Maintanance
@@ -164,15 +164,14 @@ Untuk menginstall **PHPList** kita membutuhkan:
 
 #### Perbandingan **PHPList** dengan CMS lainnya
 1. **PHPList** vs **Mailman** 
- ```
- - PHPList memiliki user interface dan admin interface yang lebih baik jika dibandingkan dengan mailman. Mailman berbasis text sehingga memiliki tampilan yang simpel dan polos
- - PHPList merupakan open source system
- ```
-2. **PHPList** vs **Web Mailing List**
- ```
- - PHPList memiliki keunggulan dapat mengirimkan newsletter dalam jumlah banyak ke banyak email, sedangkan pada web mailing list hanya dapat mengatur email dalam jumlah yang sedikit 
- ```
+
+    - PHPList memiliki user interface dan admin interface yang lebih baik jika dibandingkan dengan mailman. Mailman berbasis text sehingga memiliki tampilan yang simpel dan polos
+    - PHPList merupakan open source system
  
+2. **PHPList** vs **Web Mailing List**
+ 
+    - PHPList memiliki keunggulan dapat mengirimkan newsletter dalam jumlah banyak ke banyak email, sedangkan pada web mailing list hanya dapat mengatur email dalam jumlah yang sedikit 
+  
 
 # Slide Presentasi
 [`^ kembali ke atas ^`](#)
