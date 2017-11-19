@@ -121,6 +121,7 @@ Untuk menginstall **PHPList** kita membutuhkan:
 
 # Scheduling
 [`^ kembali ke atas ^`](#)
+
 Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur scheduling pengiriman newsletter, maka **PHPList** otomatis akan mengirimkan newsletter sesuai dengan waktu yang telah diset oleh administrator.
 -  Pada tab scheduling, administrator menentukan menahan tulisan untuk dipublish hingga waktu tertentu yang otomatis akan diantrikan untuk dikirim jika masa penahanannya sudah usai.
 
@@ -132,6 +133,13 @@ Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur s
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+**PHPList** merupakan aplikasi bulletin untuk menyebarkan newsletter berbasis web. **PHPList** memungkinkan pengaturan template email yang akan digunakan untuk tampilan yang seragam dan konsisten. Berikut ini merupakan beberapa **fitur pada PHPList** :
+1. Adanya berbagai macam **variasi instalasi** via Fantastico, FTP, atau SSH
+2. **User management** untuk mengatur dan menjaga data pelanggan
+3. **CSV Import and Export** untuk mengimpor daftar user yang telah ada
+4. **Attachment** dapat diupload dan dimasukkan di pesan untuk didownload
+5. **Penjadwalan pengiriman** untuk menentukan kapan pesan dikirim
+
 #### Kelebihan penggunaan **PHPList**
 1. Interface aplikasi berbasis web sehingga mudah untuk menulis, mengatur, dan mengirimkan pesan melalui internet
 2. Dapat melacak respon dan perilaku pelanggan secara real-time.
@@ -143,7 +151,6 @@ Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur s
 
 # Slide Presentasi
 [`^ kembali ke atas ^`](#)
-
 
 Berikut ini merupakan lampiran dari slide presentasi **PHPList**
 
