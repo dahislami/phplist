@@ -147,7 +147,7 @@ Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur s
 
 Berikut ini merupakan lampiran dari slide presentasi **PHPList**
 
- ![slide](https://drive.google.com/open?id=1iSbqVuvv4kMn6Pr5uV_dJbcZGrhS_N7e)
+ ![slide](https://github.com/dahislami/phplist/blob/master/Presentasi%20PHPList2.pptx)
 
 # Referensi
 [`^ kembali ke atas ^`](#)
