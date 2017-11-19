@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/PhpList_Logo.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Kebutuhan Instalasi](#kebutuhan-instalasi) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
@@ -26,6 +26,8 @@ Untuk menginstall **PHPList** kita membutuhkan:
 -         MySQL server version 4.0 atau versi yang lebih tinggi
 
 # Instalasi :
+[`^ kembali ke atas ^`](#)
+
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi PuTTY.
     ```
     $ ssh student@172.18.88.88 -p 22
@@ -91,7 +93,31 @@ Untuk menginstall **PHPList** kita membutuhkan:
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
-
+1. Melakukan setup pada bagian System Function halaman admin **PHPList**.
+2. Melakukan setup pada bagian **Configure Attributes**
+ ```
+ Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
+ Mengisikan nama, misalnya pekerjaan
+ Menentukan tipe untuk atribut tersebut pada kotak type, jika ada nilai default untuk atribut tersebut isikan di kotak Default Value
+ Tentukan juga apakah variabel tersebut harus diidi oleh pendaftar atau tidak, pada kotak **Is this attribute required?**
+ Klik merge
+ ```
+2. Membuat **List** . List adalah objek yang menyimpan daftar user berta email yang terdaftar
+ ```
+ Isi nama pada kotak List name
+ Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
+ Mengisikan owner yang berhak mengatur list tersebut
+ Mengisikan deskripsi tentang list pada kotak List Descriiption
+ Simpan perubahan **Save**
+ ```
+ 3. Membuat **Subcriber Pages** 
+ ```
+ Pengisian Thank You page, text for button dan opsi Email Configuration
+ Pengisian judul dan isi email subscribe dan email konfirmasi
+ Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
+ Mengisi pesan yang akan dikirim setelah terkonfirmasi di kotak Message pada bagian bawah tulisan Message the receive when they confirm their subscription
+ Simpan perubahan **Save Change**
+ ```
 
 # Maintenance
 [`^ kembali ke atas ^`](#)
@@ -108,11 +134,11 @@ Untuk menginstall **PHPList** kita membutuhkan:
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 #### Kelebihan penggunaan **PHPList**
-1.  	Interface aplikasi berbasis web sehingga mudah untuk menulis, mengatur, dan mengirimkan pesan melalui internet
-2.  	Dapat melacak respon dan perilaku pelanggan secara real-time.
-3.  	PHPList dapat terus mwngirimkan pesan dari web server yang digunakan, meskipun kita sudah mematikan komputer dan tidak mengakses web server tersebut.
-4.  	Dapat mengakomodasi jumlah pelanggan dengan susbscriber yang banyak, namun tetap elegan dipakai untuk sedikit orang.
-5.  	Tidak ada pesan yang terduplikasi dan terlupakan.
+1. Interface aplikasi berbasis web sehingga mudah untuk menulis, mengatur, dan mengirimkan pesan melalui internet
+2. Dapat melacak respon dan perilaku pelanggan secara real-time.
+3. PHPList dapat terus mwngirimkan pesan dari web server yang digunakan, meskipun kita sudah mematikan komputer dan tidak mengakses web server tersebut.
+4. Dapat mengakomodasi jumlah pelanggan dengan susbscriber yang banyak, namun tetap elegan dipakai untuk sedikit orang.
+5. Tidak ada pesan yang terduplikasi dan terlupakan.
 
 #### Kekurangan penggunaan **PHPList**
 
