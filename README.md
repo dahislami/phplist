@@ -200,3 +200,4 @@ Berikut ini merupakan lampiran dari slide presentasi **PHPList**
 [`^ kembali ke atas ^`](#)
 
 1. [About PHPList](https://www.phplist.com/) - PHPList
+2. [PHPList User Manual](https://www.phplist.org/manual/phpList_manual_pdf_20150522.pdf) - User Manual
