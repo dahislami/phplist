@@ -124,11 +124,18 @@ Untuk menginstall **PHPList** kita membutuhkan:
 **Scheduling** dilakukan pada halaman administrator. Ketika administrator mengatur scheduling pengiriman newsletter, maka **PHPList** otomatis akan mengirimkan newsletter sesuai dengan waktu yang telah diset oleh administrator.
 -  Pada tab scheduling, administrator menentukan menahan tulisan untuk dipublish hingga waktu tertentu yang otomatis akan diantrikan untuk dikirim jika masa penahanannya sudah usai.
 
+### Pemberhentian berlangganan
+**Unsubscribe** merupakan proses ketika pelanggan newsletter berhenti berlangganan artinya pelanggan tersebut menghentikan pengiriman newsletter ke email yang telah didaftarkan dan diverifikasi. Hal tersebut mungkin saja dilakukan oleh pelanggan dengan berbai alasan. Adapun langkah untuk berhenti berlangganan sebagai berikut :
+- Masuk ke halaman utama phplist kemudian pilih **unsubscribe** dan mengisikan alasan dari pemberhentian dalam berlangganan newsletter
+- Pemberitahuan unsubscribe sukses dengan melakukan pengecekan pada email dan melakukan konfirmasi unsubscibe newsletter pada email pemberitahuan untuk berhenti berlangganan 
+
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
 #### Sisi Pelanggan
+Cara menggunakan PHPList dari sisi pelanggan adalah dengan berlangganan newsletter yang disediakan oleh administrator. Pelanggan dapat memilih berita dan dapat mendaftarkan email untuk berlangganan newsletter. Selanjutnya, pengguna dapat menikmati layanan dengan menerima newsletter sesuai dengan kebutuhan dan keinginan dari pengguna tersebut.
+
 1. Mendaftarkan diri sebagai pelanggan dengan cara membuka halaman utama **PHPList** kemudian **Subscribe to our newsletter**
 2. Mengisikan data-data yang dibutuhkan seperti email
 3. Subscribe
@@ -137,11 +144,20 @@ Untuk menginstall **PHPList** kita membutuhkan:
 6. Secara periodik newsletter akan dikirimkan ke email yang telah didaftarkan dan terverifikasi
 
 #### Sisi Administrator
+Administrator dapat menggunakan PHPList sebagai sarana untuk mengirim bulletin dan newsletter secara periodik kepada pelanggan yang telah berlangganan ke email yang telah diverifikasi oleh administrator. Administrator juga dapat memilih newsletter dan bulletin sesuai dengan kebutuhan masing-masing pelanggan. Administrator juga dapat tidak mengirimkan bulletin dan newsletter ke email yang belum terverifikasi. Administrator juga dapat mengatur isi konten dari newsletter dan bulletin. Administrator juga dapat mengatur schedule pengiriman newsletter dan bulletin pada waktu tertentu.
+
 1. Masuk ke halaman utama **PHPList** kemudian login sebagai administrator
 2. Pada menu **List and user function** pilih users kemudian melakukan konfigurasi pelanggan yang telah terdaftar yang akan berlangganan newsletter
-3. Men
-
-
+3. Melakukan **verifikasi** email pelanggan yang telah melakukan subscribe
+4. Sebelum melakukan pengiriman newsletter, administrator harus mengatur **konten** dari newsletter yang akan dikirim kepada pelanggan terlebih dahulu. Pengaturan konten meliputi, memberikan judul newsletter, penambahan gambar, penambahan isi dari newsletter, mengatur allign, sampai menambahkan footer pada newsletter.
+5. Melakukan penyimpanan konfigurasi
+6. Kemudian berpindah ke tab format pengiriman newsletter ada 2 format yang ditawarkan yakni dapat berupa html atau text format
+7. Berpindah ke tab **attach** administrator dapat menentukan apakah hendak menambahkan attachment file atau tidak pada newsletter yang akan dikirim
+8. Berpindah ke tab **scheduling** administrator dapat mengatur jadwal dan waktu pengiriman newsletter tanpa mengharuskan adanya pengawasan dari administrator
+9. Untuk pengiriman pesan terdapat pada tab **lists** , kemudian administrator memilih list yang ingin dikirimi newsletter tersebut
+10. **Send message to selected mailinglist** untuk mengirimkan newsletter yang telah dibuat ke semua alamat email yang terdaftar pada list
+11. Selanjutnya klik **process the message queue** untuk menunggu giliran pengiriman ke masing-masing email tujuan
+12. Selesai
 
 
 # Pembahasan
