@@ -14,7 +14,7 @@
 
 
 
-# Instalasi
+# Kebutuhan Instalasi
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan **PHPList** :
@@ -25,7 +25,7 @@ Untuk menginstall **PHPList** kita membutuhkan:
 -         PHP Imap Module
 -         MySQL server version 4.0 atau versi yang lebih tinggi
 
-#### Proses Instalasi :
+# Instalasi :
 1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi PuTTY.
     ```
     $ ssh student@172.18.88.88 -p 22
@@ -107,6 +107,14 @@ Untuk menginstall **PHPList** kita membutuhkan:
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+#### Kelebihan penggunaan **PHPList**
+1.  	Interface aplikasi berbasis web sehingga mudah untuk menulis, mengatur, dan mengirimkan pesan melalui internet
+2.  	Dapat melacak respon dan perilaku pelanggan secara real-time.
+3.  	PHPList dapat terus mwngirimkan pesan dari web server yang digunakan, meskipun kita sudah mematikan komputer dan tidak mengakses web server tersebut.
+4.  	Dapat mengakomodasi jumlah pelanggan dengan susbscriber yang banyak, namun tetap elegan dipakai untuk sedikit orang.
+5.  	Tidak ada pesan yang terduplikasi dan terlupakan.
+
+#### Kekurangan penggunaan **PHPList**
 
 # Referensi
 [`^ kembali ke atas ^`](#)
