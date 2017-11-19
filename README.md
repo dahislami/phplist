@@ -198,3 +198,5 @@ Berikut ini merupakan lampiran dari slide presentasi **PHPList**
 
 # Referensi
 [`^ kembali ke atas ^`](#)
+
+1. [About PHPList](https://www.phplist.com/) - PHPList
