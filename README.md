@@ -143,7 +143,8 @@ Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur s
 
 # Slide Presentasi
 [`^ kembali ke atas ^`](#)
-!13[slide](https://drive.google.com/open?id=1iSbqVuvv4kMn6Pr5uV_dJbcZGrhS_N7e)
+Berikut ini merupakan lampiran dari slide presentasi PHPList
+![slide](https://drive.google.com/open?id=1iSbqVuvv4kMn6Pr5uV_dJbcZGrhS_N7e)
 
 # Referensi
 [`^ kembali ke atas ^`](#)
