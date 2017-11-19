@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/PhpList_Logo.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Kebutuhan Instalasi](#kebutuhan-instalasi) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Scheduling](#scheduling) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Kebutuhan Instalasi](#kebutuhan-instalasi) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Scheduling](#scheduling) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) |[Slide Presentasi](#slide-presentasi) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
@@ -124,9 +124,6 @@ Untuk menginstall **PHPList** kita membutuhkan:
 Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur scheduling pengiriman newsletter, maka **PHPList** otomatis akan mengirimkan newsletter sesuai dengan waktu yang telah diset oleh administrator.
 -  Pada tab scheduling, administrator menentukan menahan tulisan untuk dipublish hingga waktu tertentu yang otomatis akan diantrikan untuk dikirim jika masa penahanannya sudah usai.
 
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
-
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
@@ -143,6 +140,10 @@ Scheduling dilakukan pada halaman administrator. Ketika administrator mengatur s
 5. Tidak ada pesan yang terduplikasi dan terlupakan.
 
 #### Kekurangan penggunaan **PHPList**
+
+# Slide Presentasi
+[`^ kembali ke atas ^`](#)
+[https://drive.google.com/open?id=1iSbqVuvv4kMn6Pr5uV_dJbcZGrhS_N7e]
 
 # Referensi
 [`^ kembali ke atas ^`](#)
