@@ -178,6 +178,8 @@ Administrator dapat menggunakan PHPList sebagai sarana untuk mengirim bulletin d
 5. Tidak ada pesan yang terduplikasi dan terlupakan.
 
 #### Kekurangan penggunaan **PHPList**
+1. Membutuhkan jaringan internet yang stabil
+2. Jika perlu mengirimkan newsletter kepada subscriber yang sangat banyak, sistem yang berjalan tidak bisa melakukan task lain.
 
 #### Perbandingan **PHPList** dengan CMS lainnya
 1. **PHPList** vs **Mailman** 
