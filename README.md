@@ -91,7 +91,9 @@ Untuk menginstall **PHPList** kita membutuhkan:
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 1. Melakukan setup pada bagian System Function halaman admin **PHPList**.
-[Config](https://www.phplist.org/manual/static/phpList_config_done.png)
+
+![Config](https://www.phplist.org/manual/static/phpList_config_done.png)
+
 2. Melakukan setup pada bagian **Configure Attributes**
  
     - Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
