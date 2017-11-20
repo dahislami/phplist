@@ -126,10 +126,14 @@ Untuk menginstall **PHPList** kita membutuhkan:
 
 #### Scheduling
 
+   ![Scheduling](https://www.phplist.org/manual/static/main.png)
+    
 **Scheduling** dilakukan pada halaman administrator. Ketika administrator mengatur scheduling pengiriman newsletter, maka **PHPList** otomatis akan mengirimkan newsletter sesuai dengan waktu yang telah diset oleh administrator.
 -  Pada tab scheduling, administrator menentukan menahan tulisan untuk dipublish hingga waktu tertentu yang otomatis akan diantrikan untuk dikirim jika masa penahanannya sudah usai.
 
 ### Pemberhentian berlangganan
+   ![Berhenti Langganan](https://2.bp.blogspot.com/-L-O7OoKoAY8/WhMMdD5VOhI/AAAAAAAAVrE/Etk1kmt4q2UWAPcJendSN5gHy8rJyUZ1gCLcBGAs/s1600/Subcribe_unsubcribe.jpeg)
+   
 **Unsubscribe** merupakan proses ketika pelanggan newsletter berhenti berlangganan artinya pelanggan tersebut menghentikan pengiriman newsletter ke email yang telah didaftarkan dan diverifikasi. Hal tersebut mungkin saja dilakukan oleh pelanggan dengan berbagai alasan. Adapun langkah untuk berhenti berlangganan sebagai berikut :
 - Masuk ke halaman utama phplist kemudian pilih **unsubscribe** dan mengisikan alasan dari pemberhentian dalam berlangganan newsletter
 - Pemberitahuan unsubscribe sukses dengan melakukan pengecekan pada email dan melakukan konfirmasi unsubscibe newsletter pada email pemberitahuan untuk berhenti berlangganan 
@@ -141,6 +145,8 @@ Untuk menginstall **PHPList** kita membutuhkan:
 #### Sisi Pelanggan
 Cara menggunakan PHPList dari sisi pelanggan adalah dengan berlangganan newsletter yang disediakan oleh administrator. Pelanggan dapat memilih berita dan dapat mendaftarkan email untuk berlangganan newsletter. Selanjutnya, pengguna dapat menikmati layanan dengan menerima newsletter sesuai dengan kebutuhan dan keinginan dari pengguna tersebut.
 
+   ![Subscibe](https://2.bp.blogspot.com/-L-O7OoKoAY8/WhMMdD5VOhI/AAAAAAAAVrE/Etk1kmt4q2UWAPcJendSN5gHy8rJyUZ1gCLcBGAs/s1600/Subcribe_unsubcribe.jpeg)
+    
 1. Mendaftarkan diri sebagai pelanggan dengan cara membuka halaman utama **PHPList** kemudian **Subscribe to our newsletter**
 2. Mengisikan data-data yang dibutuhkan seperti email
 3. Subscribe
