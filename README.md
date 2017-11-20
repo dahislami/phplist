@@ -92,9 +92,11 @@ Untuk menginstall **PHPList** kita membutuhkan:
 [`^ kembali ke atas ^`](#)
 1. Melakukan setup pada bagian System Function halaman admin **PHPList**.
 
-![Config](https://www.phplist.org/manual/static/phpList_config_done.png)
+    ![Config](https://www.phplist.org/manual/static/phpList_config_done.png)
 
-2. Melakukan setup pada bagian **Configure Attributes**
+2. Melakukan setup pada bagian **Configure Attributes** 
+
+    ![Attribute](https://www.phplist.org/manual/static/phpList_editing_attributes.png)
  
     - Membuat atribut yang dapat ditampilkan ketika user hendak mendaftar ke sebuah mailing list
     - Mengisikan nama, misalnya pekerjaan
@@ -103,7 +105,7 @@ Untuk menginstall **PHPList** kita membutuhkan:
     - Klik merge
  
 3. Membuat **List** . List adalah objek yang menyimpan daftar user berta email yang terdaftar
- 
+    
     - Isi nama pada kotak List name
     - Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
     - Mengisikan owner yang berhak mengatur list tersebut
@@ -111,7 +113,7 @@ Untuk menginstall **PHPList** kita membutuhkan:
     - Simpan perubahan Save
  
  4. Membuat **Subcriber Pages** 
-
+    ![Subcriber Page](https://2.bp.blogspot.com/-BmmMftguyp0/WhMMZvf7cvI/AAAAAAAAVqk/fYgUYVL89o0TDxlgPOEHvgEOvn83AU6IACLcBGAs/s1600/Edit_subcriber_page.jpeg)
     - Pengisian Thank You page, text for button dan opsi Email Configuration
     - Pengisian judul dan isi email subscribe dan email konfirmasi
     - Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
