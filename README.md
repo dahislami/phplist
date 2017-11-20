@@ -125,7 +125,7 @@ Untuk menginstall **PHPList** kita membutuhkan:
 -  Pada tab scheduling, administrator menentukan menahan tulisan untuk dipublish hingga waktu tertentu yang otomatis akan diantrikan untuk dikirim jika masa penahanannya sudah usai.
 
 ### Pemberhentian berlangganan
-**Unsubscribe** merupakan proses ketika pelanggan newsletter berhenti berlangganan artinya pelanggan tersebut menghentikan pengiriman newsletter ke email yang telah didaftarkan dan diverifikasi. Hal tersebut mungkin saja dilakukan oleh pelanggan dengan berbai alasan. Adapun langkah untuk berhenti berlangganan sebagai berikut :
+**Unsubscribe** merupakan proses ketika pelanggan newsletter berhenti berlangganan artinya pelanggan tersebut menghentikan pengiriman newsletter ke email yang telah didaftarkan dan diverifikasi. Hal tersebut mungkin saja dilakukan oleh pelanggan dengan berbagai alasan. Adapun langkah untuk berhenti berlangganan sebagai berikut :
 - Masuk ke halaman utama phplist kemudian pilih **unsubscribe** dan mengisikan alasan dari pemberhentian dalam berlangganan newsletter
 - Pemberitahuan unsubscribe sukses dengan melakukan pengecekan pada email dan melakukan konfirmasi unsubscibe newsletter pada email pemberitahuan untuk berhenti berlangganan 
 
@@ -162,6 +162,7 @@ Administrator dapat menggunakan PHPList sebagai sarana untuk mengirim bulletin d
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+
 **PHPList** merupakan aplikasi bulletin untuk menyebarkan newsletter berbasis web. **PHPList** memungkinkan pengaturan template email yang akan digunakan untuk tampilan yang seragam dan konsisten. Berikut ini merupakan beberapa **fitur pada PHPList** :
 1. Adanya berbagai macam **variasi instalasi** via Fantastico, FTP, atau SSH
 2. **User management** untuk mengatur dan menjaga data pelanggan
