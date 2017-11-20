@@ -106,14 +106,20 @@ Untuk menginstall **PHPList** kita membutuhkan:
  
 3. Membuat **List** . List adalah objek yang menyimpan daftar user berta email yang terdaftar
     
+    ![Lists](https://1.bp.blogspot.com/-26untEMRF54/WhMX_mRUwDI/AAAAAAAAVtU/BtAJRAga4dYNF6QcZF4o9K8LIMpQuSkqgCLcBGAs/s1600/tambah%2Blist%2Bsubscriber.png)
+    
     - Isi nama pada kotak List name
     - Mengklik kotak **Check this box to make this list active**. List yang dibuat akan langsung aktif dan bisa menerima user yang ingin berlangganan/subscibe
     - Mengisikan owner yang berhak mengatur list tersebut
     - Mengisikan deskripsi tentang list pada kotak List Description
     - Simpan perubahan Save
  
- 4. Membuat **Subcriber Pages** 
+ 4. Membuat **Subcriber Pages**
+ 
     ![Subcriber Page](https://2.bp.blogspot.com/-BmmMftguyp0/WhMMZvf7cvI/AAAAAAAAVqk/fYgUYVL89o0TDxlgPOEHvgEOvn83AU6IACLcBGAs/s1600/Edit_subcriber_page.jpeg)
+ 
+    ![Subsciber_page_1](https://1.bp.blogspot.com/-9iiDRNaQXYA/WhMX3qx_xKI/AAAAAAAAVsc/1oAPCJDo7tkIWlkvAICnZaMX336AxPf5gCLcBGAs/s1600/edit_sub_page.png)
+ 
     - Pengisian Thank You page, text for button dan opsi Email Configuration
     - Pengisian judul dan isi email subscribe dan email konfirmasi
     - Mengisi isi pesan yang ada di kotak Message bagian Message they receive when they subscibe
@@ -125,16 +131,21 @@ Untuk menginstall **PHPList** kita membutuhkan:
 [`^ kembali ke atas ^`](#)
 
 #### Scheduling
+    
+**Scheduling** dilakukan pada halaman administrator. Ketika administrator mengatur scheduling pengiriman newsletter, maka **PHPList** otomatis akan mengirimkan newsletter sesuai dengan waktu yang telah diset oleh administrator.
 
    ![Scheduling](https://www.phplist.org/manual/static/main.png)
     
-**Scheduling** dilakukan pada halaman administrator. Ketika administrator mengatur scheduling pengiriman newsletter, maka **PHPList** otomatis akan mengirimkan newsletter sesuai dengan waktu yang telah diset oleh administrator.
 -  Pada tab scheduling, administrator menentukan menahan tulisan untuk dipublish hingga waktu tertentu yang otomatis akan diantrikan untuk dikirim jika masa penahanannya sudah usai.
 
 ### Pemberhentian berlangganan
-   ![Berhenti Langganan](https://2.bp.blogspot.com/-L-O7OoKoAY8/WhMMdD5VOhI/AAAAAAAAVrE/Etk1kmt4q2UWAPcJendSN5gHy8rJyUZ1gCLcBGAs/s1600/Subcribe_unsubcribe.jpeg)
    
 **Unsubscribe** merupakan proses ketika pelanggan newsletter berhenti berlangganan artinya pelanggan tersebut menghentikan pengiriman newsletter ke email yang telah didaftarkan dan diverifikasi. Hal tersebut mungkin saja dilakukan oleh pelanggan dengan berbagai alasan. Adapun langkah untuk berhenti berlangganan sebagai berikut :
+
+   ![Berhenti Langganan](https://2.bp.blogspot.com/-L-O7OoKoAY8/WhMMdD5VOhI/AAAAAAAAVrE/Etk1kmt4q2UWAPcJendSN5gHy8rJyUZ1gCLcBGAs/s1600/Subcribe_unsubcribe.jpeg)
+   
+   ![Berhenti Langganan_1](https://4.bp.blogspot.com/-FzkwKDsYj0A/WhMX4GI5UDI/AAAAAAAAVsk/Nf-ktOa3eMEyLH5fnquy-se8KTz_FQMGwCLcBGAs/s1600/halaman_subscriber.PNG)
+
 - Masuk ke halaman utama phplist kemudian pilih **unsubscribe** dan mengisikan alasan dari pemberhentian dalam berlangganan newsletter
 - Pemberitahuan unsubscribe sukses dengan melakukan pengecekan pada email dan melakukan konfirmasi unsubscibe newsletter pada email pemberitahuan untuk berhenti berlangganan 
 
@@ -158,16 +169,37 @@ Cara menggunakan PHPList dari sisi pelanggan adalah dengan berlangganan newslett
 Administrator dapat menggunakan PHPList sebagai sarana untuk mengirim bulletin dan newsletter secara periodik kepada pelanggan yang telah berlangganan ke email yang telah diverifikasi oleh administrator. Administrator juga dapat memilih newsletter dan bulletin sesuai dengan kebutuhan masing-masing pelanggan. Administrator juga dapat tidak mengirimkan bulletin dan newsletter ke email yang belum terverifikasi. Administrator juga dapat mengatur isi konten dari newsletter dan bulletin. Administrator juga dapat mengatur schedule pengiriman newsletter dan bulletin pada waktu tertentu.
 
 1. Masuk ke halaman utama **PHPList** kemudian login sebagai administrator
+
+    ![Login](https://1.bp.blogspot.com/-mRzGMeWnNbc/WhMMcSeuLmI/AAAAAAAAVq8/0hQZ5U2Yd4EWj5Y1hGiz08JktTFbyM7cwCLcBGAs/s1600/Login.jpeg)
+
 2. Pada menu **List and user function** pilih users kemudian melakukan konfigurasi pelanggan yang telah terdaftar yang akan berlangganan newsletter
+
+    ![List_user](https://3.bp.blogspot.com/-MJ3RXY4TOM0/WhMX5xjRu1I/AAAAAAAAVsw/XmFD4Zq4oPcC0zaWyzyYZ24NLtBp-4GsACLcBGAs/s1600/list.PNG)
+
 3. Melakukan **verifikasi** email pelanggan yang telah melakukan subscribe
 4. Sebelum melakukan pengiriman newsletter, administrator harus mengatur **konten** dari newsletter yang akan dikirim kepada pelanggan terlebih dahulu. Pengaturan konten meliputi, memberikan judul newsletter, penambahan gambar, penambahan isi dari newsletter, mengatur allign, sampai menambahkan footer pada newsletter.
+    
+    ![Konten](https://1.bp.blogspot.com/-jc6HmARx77s/WhMMbLN8_JI/AAAAAAAAVqw/oL31WHYZkXEoIY3erX6mDgo2wjYJ2hWyACLcBGAs/s1600/Konten_isi.jpeg)
+    
+    ![Konten_1](https://1.bp.blogspot.com/-hMcFGupeUxc/WhMMbz8fZwI/AAAAAAAAVq4/P1WGifm3DwMD8X0NITDJiTAB9J9V7_6qwCLcBGAs/s1600/Koonten_lanjutan.jpeg)
+
 5. Melakukan penyimpanan konfigurasi
 6. Kemudian berpindah ke tab format pengiriman newsletter ada 2 format yang ditawarkan yakni dapat berupa html atau text format
-7. Berpindah ke tab **attach** administrator dapat menentukan apakah hendak menambahkan attachment file atau tidak pada newsletter yang akan dikirim
+    
+    ![Format](https://4.bp.blogspot.com/-ujYHgw9NA9k/WhMMadEeUSI/AAAAAAAAVqo/kXX61YvSRxUwDBCYi_HpLJ0s8yKzG323gCLcBGAs/s1600/Format.jpeg)
+
+7. **Attach** administrator dapat menentukan apakah hendak menambahkan attachment file atau tidak pada newsletter yang akan dikirim
 8. Berpindah ke tab **scheduling** administrator dapat mengatur jadwal dan waktu pengiriman newsletter tanpa mengharuskan adanya pengawasan dari administrator
+
+    ![Scheduling](https://www.phplist.org/manual/static/main.png)
+
 9. Untuk pengiriman pesan terdapat pada tab **lists** , kemudian administrator memilih list yang ingin dikirimi newsletter tersebut
+
+    ![Lists](https://4.bp.blogspot.com/-NBm6noaheKo/WhMMc1XyqrI/AAAAAAAAVrA/cY8rxQOtztQ-c45pd24626x-dpCXVxNLgCLcBGAs/s1600/Pengiriman_list.jpeg)
+
 10. **Send message to selected mailinglist** untuk mengirimkan newsletter yang telah dibuat ke semua alamat email yang terdaftar pada list
 11. Selanjutnya klik **process the message queue** untuk menunggu giliran pengiriman ke masing-masing email tujuan
+    ![Proses_queue](https://discuss.phplist.org/uploads/default/original/2X/b/be9f682e5eb366bb28c5953133080695b6d23c05.png)
 12. Selesai
 
 
